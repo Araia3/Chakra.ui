@@ -9,13 +9,17 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
+    "@baifendian/k007-ui-routerconfig": "1.0.1",
     "@chakra-ui/react": "1.8.8",
     "@emotion/react": "11.9.0",
     "@emotion/styled": "11.8.1",
+    "@types/react-router-dom": "5.3.3",
     "framer-motion": "6.3.3",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-scripts": "4.0.3"
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.3",
+    "route": "0.2.5"
   },
   "devDependencies": {
     "@types/react": "17.0.20",
